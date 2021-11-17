@@ -30,7 +30,7 @@ Web part will get data from a SharePoint list.
 * Modify CompanyAnnouncementsWebPart.ts and CompanyAnnouncementsWebPart.module.scss under src/webparts/companyAnnouncements.
 
 ## Test web part in SharePoint Framework Workbench
-Run ```gulp serve` --nobrowser`` to launch web server on https://localhost:4321. Then go to SharePoint Framework Workbench on tenant to test web part. Workbench URL will be https://[tenantname].sharepoint.com/_layouts/workbench.aspx.
+Run ```gulp serve --nobrowser``` to launch web server on https://localhost:4321. Then go to SharePoint Framework Workbench on tenant to test web part. Workbench URL will be https://[tenantname].sharepoint.com/_layouts/workbench.aspx.
 
 This will not work on Linux [1]
 
