@@ -1,5 +1,5 @@
 # Microsoft Learn: Extend Viva Connections desktop with app customizers
-https://docs.microsoft.com/en-us/learn/modules/viva-connections-extend-with-app-customizers/3-extend-viva-connections-desktop-with-application-customizers
+https://docs.microsoft.com/en-us/learn/modules/viva-connections-extend-with-app-customizers
 
 ## Prerequisites
 * Windows 10 desktop
